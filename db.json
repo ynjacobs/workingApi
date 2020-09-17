@@ -1,8 +1,6 @@
  {
   "data": [
-    { "id": 1, "name": "Joe" },
-    { "id": 2, "name": "Max" },
-    { "id": 3, "name": "Nancy" }
+    { "type": "height", "name": "Joe" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
