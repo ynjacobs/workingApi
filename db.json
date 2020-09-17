@@ -1,7 +1,7 @@
  {
   "comments": [
-    { "type": 1, "body": "some comment",  },
-    { "type": 2, "body": "some comment",  }
+    { "type": 1, "body": "some comment" },
+    { "type": 2, "body": "some comment" }
   ],
   "profile": {
     "name": "typicode"
