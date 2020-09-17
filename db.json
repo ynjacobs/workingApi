@@ -1,7 +1,9 @@
  
 {
   "data": [
-    { "type": "height", "working": true },
+    { "id": 1, "name": "Joe" },
+    { "id": 2, "name": "Max" },
+    { "id": 3, "name": "Nancy" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
