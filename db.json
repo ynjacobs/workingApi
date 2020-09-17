@@ -1,5 +1,5 @@
  {
   "data": [
-    { "type": "height", "working": true }
+    {"id": 1, "type": "height", "working": true }
   ]
 }
